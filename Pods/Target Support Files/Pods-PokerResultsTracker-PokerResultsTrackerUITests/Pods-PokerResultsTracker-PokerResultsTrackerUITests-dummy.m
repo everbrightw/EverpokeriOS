@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_PokerResultsTracker_PokerResultsTrackerUITests : NSObject
+@end
+@implementation PodsDummy_Pods_PokerResultsTracker_PokerResultsTrackerUITests
+@end

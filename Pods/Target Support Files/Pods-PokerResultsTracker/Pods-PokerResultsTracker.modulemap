@@ -1,0 +1,6 @@
+framework module Pods_PokerResultsTracker {
+  umbrella header "Pods-PokerResultsTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
